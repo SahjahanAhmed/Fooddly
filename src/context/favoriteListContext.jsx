@@ -15,7 +15,6 @@ const reducer = (state, action) => {
       state = state.filter((item) => item !== action.payload);
       localStorage.setItem("fav-list", JSON.stringify(state));
       return state;
-
       break;
     default:
       break;

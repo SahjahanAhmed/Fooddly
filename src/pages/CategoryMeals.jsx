@@ -12,6 +12,7 @@ const CategoryMeals = () => {
       setMeals(data.data.meals);
     });
   }, []);
+
   return (
     <>
       <Title>Click to your favorite meal to get the details</Title>
