@@ -2,4 +2,4 @@
 
 ### Follow me on Linkedin [Sahjahan Ahmed](https://www.linkedin.com/in/sahjahan-ahmed/)
 
-### deployed version [here](https://fooddly.netlify.app)
+### deployed version [here](https://fooddly-4u.netlify.app)
